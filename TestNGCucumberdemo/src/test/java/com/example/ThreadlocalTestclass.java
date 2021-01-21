@@ -9,6 +9,7 @@ public class ThreadlocalTestclass extends Threadlocaltest {
 	@Test
 	public void test1() {
 		System.out.println( get()+ "1z--------" +Thread.currentThread().getId() );
+		System.out.println("Test for git plugin");
 	}
 	
 	@Test
