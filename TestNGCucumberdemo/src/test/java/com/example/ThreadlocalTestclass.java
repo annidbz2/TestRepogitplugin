@@ -9,12 +9,12 @@ public class ThreadlocalTestclass extends Threadlocaltest {
 	@Test
 	public void test1() {
 		System.out.println( get()+ "1z--------" +Thread.currentThread().getId() );
-		System.out.println("Bla bla");
-		System.out.println("Bla bla");
-		System.out.println("Bla bla");
-		System.out.println("Bla bla");
-		System.out.println("Bla bla");
-		System.out.println("Bla bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
 		
 	}
 	
