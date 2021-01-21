@@ -9,11 +9,21 @@ public class ThreadlocalTestclass extends Threadlocaltest {
 	@Test
 	public void test1() {
 		System.out.println( get()+ "1z--------" +Thread.currentThread().getId() );
+
+		System.out.println("na bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
+		System.out.println("na bla");
+		
+
 		System.out.println("Test for git plugin");
 		System.out.println("ha bla");
 		System.out.println("ha bla");
 		System.out.println("ha bla");
 		System.out.println("ha bla");
+
 	}
 	
 	@Test
