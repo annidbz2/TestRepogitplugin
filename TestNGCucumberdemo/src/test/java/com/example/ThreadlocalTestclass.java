@@ -9,13 +9,13 @@ public class ThreadlocalTestclass extends Threadlocaltest {
 	@Test
 	public void test1() {
 		System.out.println( get()+ "1z--------" +Thread.currentThread().getId() );
-		System.out.println("Test for git plugin");
-		System.out.println("Test for git plugintest branch");
-		System.out.println("Test for git plugintest branch");
-		System.out.println("Test for git plugintest branch");
-		System.out.println("Test for git plugintest branch");
+		System.out.println("Bla bla");
+		System.out.println("Bla bla");
+		System.out.println("Bla bla");
+		System.out.println("Bla bla");
+		System.out.println("Bla bla");
+		System.out.println("Bla bla");
 		
-		System.out.println("Test for git plugintest branch");
 	}
 	
 	@Test
