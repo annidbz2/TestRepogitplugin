@@ -23,7 +23,7 @@ public class ThreadlocalTestclass extends Threadlocaltest {
 		System.out.println("ha bla");
 		System.out.println("ha bla");
 		System.out.println("ha bla");
->>>>>>> refs/heads/master
+
 	}
 	
 	@Test
